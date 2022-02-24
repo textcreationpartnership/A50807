@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The midwife unmask'd, or, The popish design of Mrs. Cellier's meal-tub plainly made known being a second answer to her scandalous libel, in short remarques upon the same, for the satisfaction of the people, and the vindication of the justice of the nation, and of several persons of honour by her most vilely abused.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50807</idno>
+            <idno type="STC">Wing M2002</idno>
+            <idno type="STC">ESTC R15188</idno>
+            <idno type="EEBO-CITATION">12950602</idno>
+            <idno type="OCLC">ocm 12950602</idno>
+            <idno type="VID">95886</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50807)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95886)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 720:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The midwife unmask'd, or, The popish design of Mrs. Cellier's meal-tub plainly made known being a second answer to her scandalous libel, in short remarques upon the same, for the satisfaction of the people, and the vindication of the justice of the nation, and of several persons of honour by her most vilely abused.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Davies,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cellier, Elizabeth, fl. 1680. --  Malice defeated.</term>
+               <term>Popish Plot, 1678.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="narrative">
+            <pb n="1" facs="tcp:95886:1"/>
+            <head>THE Midwife Unmask'd: OR, The POPISH DESIGN OF Mrs <hi>Cellier's</hi> MEAL-TUB plainly made known; Being a Second ANSWER to her Scan<g ref="char:EOLhyphen"/>dalous LIBEL, in ſhort Remarques upon the ſame.</head>
+            <p>For the Satisfaction of the PEOPLE, and the Vindication of the Juſtice of the NATION, and of ſeveral Perſons of Honour by her moſt vilely abuſed.</p>
+            <p>THere have been ſo many ſtrange and unparallell'd <hi>Narratives</hi> Publiſhed in this Age, and ſo contradictory one to the other, that many people who judge things by outward appearance onely, know not well how to com<g ref="char:EOLhyphen"/>prehend the Truth, or what to think of the right and juſtneſs of Affairs, clouded with ſo many ſeveral Vizard-Maſques that are put upon them. But of all that I have yet ſeen or met with, this of Mrs <hi>Cellier</hi>'s ſeems to be the boldeſt and moſt confident piece of Stuff; ſtrangely hudled and ſhuffled together, and in which ſhe rants and ſcratches like another <hi>Pucel d'Orleans,</hi> or <hi>Joan of Arque;</hi> hand<g ref="char:EOLhyphen"/>ling her <hi>Pen</hi> for the Papiſtical Cauſe, as the other did her <hi>Lance;</hi> and it is pity ſhe has not likewiſe the glory of her Martyrdom.</p>
+            <p>How it has now crept abroad, I cannot tell, having received a Cheque by Autho<g ref="char:EOLhyphen"/>rity, as her ſelf acknowledges in her <hi>Poſtſcript, p.</hi> 43. which has ſuppreſt it till now: But of a ſuddain their hopes ſeem to revive, and their endeavours are renewed; and now out comes a new Narrative of the Female Champion of the Cauſe, all for the ſame end, to invalidate the PLOT, to make themſelves innocent, and to fling all the PLOT and Guilt on the <hi>Presbyterians.</hi> Theſe are the ſtrenuous endeavours of theſe Papal <hi>Goliaths</hi> not of <hi>Gath,</hi> but of <hi>Jeſus,</hi> who having been ſo often foyled and laid on their backs, fight behind the Buckler of a ſtout <hi>Virago,</hi> who having been Impri<g ref="char:EOLhyphen"/>ſoned for the <hi>Cauſe,</hi> and eſcaped the Law, now with bold and audacious Effronteries publiſhes her Adventures. It were labour loſt to waſte much Paper in anſwering all her impertinent Libels; and thoſe particularly concerned, will no queſtion be able to juſtifie themſelves from her bold accuſations: but I ſhall only make ſome few Re<g ref="char:EOLhyphen"/>marks for publick Information.</p>
+            <p>Firſt I ſay, Since theſe ſort of people, who have been either Plotters againſt His Sacred Majeſty, the Laws and Religion of the Land, or abettors and well-wiſhers to the ſame, and having liv'd to ſee their PLOT defeated, and ſome of their Par<g ref="char:EOLhyphen"/>ty juſtly puniſhed for their evil deeds; all their chief endeavours and main ends are now to make ſome of their innocent Party, and many of the credulous, peaceable, and eaſily deluded of the adverſe Party believe, that there was no PLOT, or at beſt but one of the <hi>Presbyterians</hi> making and inventing: and one of their great In<g ref="char:EOLhyphen"/>ſtruments was this ſhe-Champion, and Midwife, Mrs <hi>Cellier,</hi> a bold and very confi<g ref="char:EOLhyphen"/>dent <hi>Bigot</hi> in the <hi>Romiſh</hi> Cauſe; and now being cleared by the Law, Hectors and rants at any rate in this her Book, and by this means hopes more than ever to clear the point, and to render herſelf as great an innocent, as thoſe ſhe uſes to bring into the world.</p>
+            <p>She boldly acknowledges her ſelf a Papiſt, <hi>p.</hi> 1. though of Proteſtant Parents; and ſhe became one, becauſe they had been oppreſt by the Diſloyal Party; a good rea<g ref="char:EOLhyphen"/>ſon:
+<pb n="2" facs="tcp:95886:2"/>and becauſe ſhe never heard any of that Church preach to her any thing of Diſ<g ref="char:EOLhyphen"/>loyalty, therefore none of them ever made or contrived a PLOT againſt the King and Government; another like Argument. But as to the reality of the PLOT, notwithſtanding their many falſe Blinds, there is ſcarce one of any Judgment and Rea<g ref="char:EOLhyphen"/>ſon, but is convinced of it; and to deny i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, we<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e to give the Lye to the greateſt Au<g ref="char:EOLhyphen"/>thority in Earth, both the King and People: To the King, in contradicting his ſe<g ref="char:EOLhyphen"/>veral Proclamations; to the People, in making falſe the ſeveral unanimous Votes of their Repreſentatives in <hi>Parliament;</hi> who have declared it to be an horrid <hi>POPISH PLOT,</hi> not a <hi>Presbyterian</hi> one; and by believing the Judges of the Land to be blind, and all the Courts of Judicature to be ſtrangely miſtaken. And yet theſe people, <hi>Jeſuits</hi> and <hi>Jeſuitical</hi> Inſtruments, boldly inſinuate there is no PLOT; and there<g ref="char:EOLhyphen"/>fore, as their chiefeſt Card they have to play, they ſo often endeavour to invalidate the Kings Witneſſes, and to make them of no worth: and this is the whole ſcope of this Book of Mrs <hi>Cellier's,</hi> called her <hi>Malice Defeated,</hi> but rather is <hi>Malice Repeated.</hi>
+            </p>
+            <p>For <hi>p.</hi> 2. ſhe tells us, The chief ſticklers for the PLOT were the Sons of thoſe who acted the principal parts in the laſt Tragedy: and therefore to intail on them the ſins of their Fathers, ſhe doubted the whole, that there was no other PLOT, but what they were going to act over again, that is, to cut off the Kings Head, and to Convert this Land to a <hi>Republick.</hi> If there could be greater malice than this in<g ref="char:EOLhyphen"/>vented, let the world judge; and how far from Truth, daily more and more appears. God be thanked, His Majeſty is not apt to be jealous, but this were enough to ſtir up a ſuſpitious Prince to be Cruel and Tyrannick. But this provokes the Good-womans Charity, and ſhe diligently ſearches the Priſons for the objects thereof; but it ſeems, for all her fine ſtories, 'twas to find out a fit ſubject for her Deſigns and Intrigues; which proving falſe and recreant, having ſerv'd his own turn, if not hers, and who having given her a divelliſh blow on the Mouth, ſtruck out moſt of her Teeth, ſo that ſhe cannot bite; ſhe opens her mouth, and with bloody gums, mumbles and touſes the poor fellow with his heaps of Crimes, ſo that ſhe thinks ſhe has ſufficiently made a fool of the PLOT, and turned it into nothing. But what is all this? <hi>Danger<g ref="char:EOLhyphen"/>field</hi> while her ſervant, though he had committed all theſe Crimes, was ſtanch e<g ref="char:EOLhyphen"/>nough, a very good man, one to be truſted to get in her Husbands Debts, and pay his Scores; introduced to the Company of the Lady <hi>Powis,</hi> and a fit Companion for the Lords in the <hi>Tower:</hi> but after this Inſtrument broke between her Hands, ſee what a Scoundrel ſhe has made of him, for turning Cat in the Pan. What he has been I know not; he ſurely could not have been very good, that was pick'd out of the Goal; and had he been any better, ſhe could never have thought to have put him upon thoſe Employs he ſufficiently ſwore ſhe did; and it ſeems was cunning enough in that Caſe, to invalidate his Teſtimony, as no legal witneſs; however, 'tis but her <hi>nay</hi> againſt his <hi>yea;</hi> he has affirmatively ſworn it, againſt which no Negative can pre<g ref="char:EOLhyphen"/>vail: and whatever the Evidence may be at Common-law, I doubt it will ſignifie ſomething to the Conſciences and Information of many, and that with as much Judgment and Reaſon, as the aſſertion of Mrs <hi>Cellier</hi> in her own defence; in which ſhe is not to be blamed, having dextrouſly played her Cards. And the Narrative of <hi>Willoughby,</hi> what e're he has been, may ſpeak Truth in matter of Fact, as well as Mrs <hi>Cellier</hi>'s, and may be juſtly and as ſoon believ'd.</p>
+            <p>But this is not enough; for although this may do her buſineſs, and ſave her Bacon, yet it will not clear the PLOT, therefore ſhe muſt fall foul alſo of the other Wit<g ref="char:EOLhyphen"/>neſſes, <hi>Bedlow, Oates,</hi> and the reſt: never a Barrel better Herring, they are all alike, and muſt be recriminated; therefore ſhe gives you <hi>Bedlows</hi> Character, <hi>p.</hi> 2, <hi>&amp;</hi> 3. and from Dr. <hi>Oates</hi> his own hand: well, if all this, or moſt of it be falſe, is not Mrs <hi>Cellier</hi> a malicious woman, and thoſe who ſet her a work wicked Inſtruments? but if this were true, all was before, and whilſt imployed in their Service; and what better could be expected for Treaſon and Murther? But ſince, we find not any thing objected againſt them, not only as to the evils of Life and Converſation, but as to the Truth and agreement of their Depoſitions. Thoſe who are alive may anſwer in this reſpect for themſelves, and Mr. <hi>Bedlow</hi>'s laſt <hi>Exit</hi> has very much ſtrengthened and confirm'd the Truth of the PLOT, and the wickedneſs of the Plotters. But how<g ref="char:EOLhyphen"/>ever, all thoſe Witneſſes Mrs <hi>Cellier</hi> rails againſt, are ſufficiently back'd by others, againſt whom none of them could have ſuch cauſe of ſcandal and reproach; ſo that the foundation of the PLOT ſtands not upon the only props of Dr. <hi>Oates, Bed<g ref="char:EOLhyphen"/>low,</hi>
+               <pb n="3" facs="tcp:95886:2"/>and <hi>Dangerfield,</hi> but on many more, ſound, and ſtrong enough in their Reputa<g ref="char:EOLhyphen"/>tion.</p>
+            <p>The next thing I obſerve, is, That ſhe not only endeavours to invalidate the Te<g ref="char:EOLhyphen"/>ſtimony of the Kings Witneſſes by Reproach, Scandal, and by bringing their Crimes upon the ſtage, whether true or falſe; but ſhe alſo endeavours, as in <hi>p.</hi> 3. to cauſe them not to be believed by the people, by inſinuating that they were horridly abu<g ref="char:EOLhyphen"/>ſed in priſon, Wracked and Tortured, Boulted and Chained, Starved and Beaten; of which ſhe tells odd ſtories, making ſomething like a Miniſter to be either a promoter, or evidence of the ſame; it looking like one of the Spaniſh Inquiſition, and he the Prieſt Examiner, being tranſlated from the <hi>Inquiſition</hi>-Priſon to <hi>Newgate.</hi> But we are apt to believe they are forged, and to which Captain <hi>Richardſon</hi> is able to give ſatiſ<g ref="char:EOLhyphen"/>faction; Mr. <hi>Prance</hi> the man ſhe would make the world believe to be the perſon Tor<g ref="char:EOLhyphen"/>mented, to extort falſe Evidence, having in his Narrative ſufficiently cleared that ſuſ<g ref="char:EOLhyphen"/>pition, and juſtified to the contrary, whatever Mrs <hi>Cellier</hi> may invent to cauſe the contrary to be thought.</p>
+            <p>But beſides the Witneſſes, we muſt have others to carry on a Secret PLOT, to hide and cloud the Real one: It is no matter who they are, but it ſeems they are no mean ones, being <hi>Dukes</hi> and <hi>Earls;</hi> for ſuch ſhe brings into <hi>Newgate, p.</hi> 4. to beat and abuſe the Examinants, or thoſe committed thither under pretence of the Plot; and in perſon to offer them Gold and Silver, to Confeſs what they did not know. Still Inquiſition-method; Cunning and Tyranny. This Duke and Lord, who ever they were, would not be accounted any great Politicians, to do their buſineſs no better, but to appear in perſon: but all this is ſtill to make the world imagine ſtrange things, and that thoſe Innocents were beaten and tormented, and tempted to confeſs what they never knew of.</p>
+            <p>This Duke and Earl are <hi>incognito,</hi> and we cannot get knowledge of them: but my Lord of <hi>Shaftesbury</hi> is more beholding to her, for ſhe names him in ſeveral places, with his Servants, and goes about to ſhew his Arts and Policies, to frame a PLOT; and would inſinuate to the people, as if it came, or had a birth out of his Brain and with his Intrigues with <hi>Bedlow</hi> and <hi>Stroud,</hi> would raiſe up what never was; and that therefore he was making Inſtruments for that purpoſe, by illegal means, feeding them privately with Money, and getting them Pardons, giving them incourage<g ref="char:EOLhyphen"/>ment and aſſiſtance. And thus the wicked woman, though newly eſcaped the laſh of the Law, if ſhe cannot Murther or take away the Life of the Earl of <hi>Shaftesbury,</hi> yet ſtabs his Honour and Reputation. But there is a Statute of <hi>Scandalum Magna<g ref="char:EOLhyphen"/>tum,</hi> upon which ſhe may chance to be Tryed, and may prove more unfortunate to her, than that of <hi>Edward</hi> the Third, upon which ſhe was laſt Indicted.</p>
+            <p>But this Woman aſcends in her bold aſperſions; and having gone thus far for the Cauſe, aſſaults the Council and the King himſelf, his Juſtice and his Laws: For <hi>p.</hi> 44. ſhe makes bold to ſay, with a Forhead brazen enough, That though Trea<g ref="char:EOLhyphen"/>ſonable Practices have been Sworn againſt <hi>Dangerfield,</hi> by Juſtice <hi>Foſter,</hi> Juſtice <hi>Harvie,</hi> Mr. <hi>Thomas Hill,</hi> and her ſelf; yet the Gentleman walks abroad undiſturbed, and dayly conſults with his Confederates, how to act new Villanies. Then by and by, <hi>Whenſoever his Majeſty ſhall pleaſe to make it ſafe and honourable to ſpeak Truth, as it hath been gainful and meritorious to do the contrary, there will not want Witneſſes,</hi> &amp;c. I think the like bold and ſcandalous Aſſertion was ſcarce ſo bare-fac'dly owned be<g ref="char:EOLhyphen"/>fore; as if his Majeſty and his Privy-Council did encourage Perjury, or that it was a dangerous thing to own or ſpeak the Truth before them.</p>
+            <p>It is not good dallying thus with Thunder: Methinks, though other perſons could not eſcape the venom of their lying Tongues, yet that Sacred Majeſty, and the Juſtice of a Nation ſhould have been above the reach of their empoyſoned darts: But to what height will not the Zeal, or rather blinde Fury and Rage of their Religion carry them! Thus alſo ſhe terms the Examinations of the Committee of Lords, before whom ſhe was brought, <hi>Trepanning Queſtions,</hi> page 29. to enſnare her: A fit expreſſion for the Peers of the Realm; as if they had ſo little Honour or Honeſty, as to betray the Life of a poor ſilly woman. But ſhe is full of ſuch ſcurrillous abuſes thorough the whole Book; and it were too much labour to trace her throughout.</p>
+            <p>She may have leave granted her to abuſe perſons of a meaner Rank, when ſhe has ſo boldly ſtruck at thoſe of the higheſt; and I think, of all the Railing ſhe has
+<pb n="4" facs="tcp:95886:3"/>uſed againſt Sir <hi>Will. Waller,</hi> which might in ſome ſort be pardoned, he being ſo active a man againſt her and her Fellow-Plotters; that which ſhe uſes page 23, is very wicked, and highly malicious; which is, that ſhewing him the Book called <hi>The black Tribunal,</hi> wherein the Tryals of the late King's Judges were ſet down, told him withal, <hi>That that was the Game he would now be at; which</hi> (ſays ſhe) <hi>he denied after ſuch a manner, as made it viſible even to the meaneſt capacity, that he did not think it a Crime.</hi> Is not this moſt horrid Judgment, to accuſe a man of Trea<g ref="char:EOLhyphen"/>ſonable thoughts in her own Breaſt, and then to pronounce Judgment on him as Guilty? But Sir <hi>William Waller</hi> is of Age to anſwer for himſelf, and no doubt knows how to clear himſelf from ſuch horrid Aſperſions.</p>
+            <p>She pretends to reveal the Myſtery of the <hi>Meal-Tub;</hi> but ſhe has made ſo flight and poor a thing of it, that it is not ſo much as the true Hiſtory of it. She thought otherwiſe of that Diſcovery, when ſhe wrung her hands and cryed, <hi>She was un<g ref="char:EOLhyphen"/>done,</hi> at the firſt finding of that <hi>black</hi> Liſt, which was under the <hi>white</hi> Meal, that gave ſufficient Proof and Light of the moſt abominable <hi>PLOT</hi> that ever was Invented. But Mrs. <hi>Cellier</hi> has undergone the Tryal of the Law, and is Acquitted for want of clear Proof againſt her; but if ſhe proceeds, as ſhe hath begun in this her Book, to forge and publiſh Lies, and to abuſe and defame perſons of Honour, and the Juſtice of the Nation, and to invalidate the King's Evidence, and endea<g ref="char:EOLhyphen"/>vour to turn the <hi>PLOT</hi> into a <hi>Romance</hi> or Fiction, ſhe may chance at laſt to finde, ſhe may not always have the good fortune to eſcape Juſtice: and it is not to be doubted, notwithſtanding the endeavours of theſe Champions for the Cauſe, but that ere long the whole Myſtery of this Long-depending <hi>PLOT</hi> will be laid open, and that Juſtice will at laſt <hi>flow like a ſtream</hi> without oppoſition in the Land; And we ſhall know the guilty Heads, as well as the defiled and wicked Members and Inſtruments. In the mean time, that ſuch may not bark in the ears of the people ſo unchequ'd and uncontrould, we have only in few words let you plainly ſee, <hi>the repeated Malice of Mrs.</hi> Celier's <hi>Malice Defeated,</hi> and what the true end of all the Endeavours of that Party is, To make the world believe that there is no Plot or Deſigne againſt his Majeſties Life, and againſt the eſtabliſhed Laws and Religion of the Land, but what is now hatching by the <hi>Presbyterians</hi> and <hi>Republicans;</hi> whilſt by this Blinde they ſtill hope to carry on their foul and wicked Deſignes.</p>
+            <epigraph>
+               <q>
+                  <p>But the Triumph of the wicked is ſhort, and the Joy of the Hypocrite but for a mo<g ref="char:EOLhyphen"/>ment. Though his head reach the Clouds, he ſhall periſh in his own Dung,</p>
+                  <bibl>
+                     <hi>Job 20.5, 6, 7.</hi>
+                  </bibl>
+               </q>
+               <q>
+                  <p>Let the Wickedneſs of the wicked come to an end; behold he travelleth with Iniquity, and hath conceived Miſchief, and brought forth falſhood. He hath made a pit, and digg'd it, and is fallen into the ditch he hath made. His miſchief ſhall return upon his own head. For the Sin of their Mouth, and the words of their Lips, let them be taken in their Pride: And for the Curſing and Lying which they ſpeak,</p>
+                  <bibl>
+                     <hi>Pſal. 7.9, 14, 15, 16. and Pſal. 59.12.</hi>
+                  </bibl>
+               </q>
+            </epigraph>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>T. Davies.</hi> 1680.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
